@@ -1,0 +1,31 @@
+CREDITS
+
+kudos to the following people for sharing their
+components via "the sketchup components collection":
+
+board_mini-itx.skp -- Angis
+http://scc.jezmckean.com/item/179
+
+board_pico-itx.skp -- Dark3nergy
+http://scc.jezmckean.com/item/200
+
+disk_25_sata.skp -- Mick64
+http://scc.jezmckean.com/item/389
+
+disk_35_sata.skp -- Rexxie
+http://scc.jezmckean.com/item/97
+
+fan_120mm.skp -- legoman666
+http://scc.jezmckean.com/item/321
+
+fan_140mm.skp -- Scooby
+http://scc.jezmckean.com/item/285
+
+power_socket.skp -- Pjotr
+http://scc.jezmckean.com/item/35
+
+psu_atx.skp -- Reitau
+http://scc.jezmckean.com/item/128
+
+switch_8port.skp -- Klikka bZerk
+http://scc.jezmckean.com/item/125
